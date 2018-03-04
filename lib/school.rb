@@ -22,9 +22,9 @@ class School
     end
 
     def sort
-      @roster.each do |k, v|
-        
-      end
+      # @roster.each do |k, v|
+      #   puts
+      # end
     end
 
 end
