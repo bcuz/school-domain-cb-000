@@ -11,4 +11,8 @@ class School
     
     end
 
+
+    def roster
+      @roster
+
 end
