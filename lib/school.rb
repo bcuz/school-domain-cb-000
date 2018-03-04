@@ -25,6 +25,7 @@ class School
       # @roster.each do |k, v|
       #   puts
       # end
+      @roster.each_value { |v| v.sort! }
     end
 
 end
